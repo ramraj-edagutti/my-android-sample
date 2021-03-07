@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyParsing</string>
+    <string name="title">TextView</string>
+    <string name="name">Name:</string>
+    <string name="nameValue">Below is the Json response</string>
+    <string name="email">Email</string>
+    <string name="email_value">Email Value</string>
+    <string name="name_value">Name Value</string>
+    <string name="phone">Phone</string>
+    <string name="username">Username</string>
+    <string name="username_value">Username_value</string>
+    <string name="phone_value">Phone Value</string>
+    <string name="website">Website</string>
+    <string name="website_value">Website Value</string>
+</resources>

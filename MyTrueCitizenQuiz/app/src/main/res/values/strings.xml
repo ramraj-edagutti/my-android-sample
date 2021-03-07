@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTrueCitizenQuiz</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="question_text_1_view">Default question or first question goes here. True</string>
+    <string name="question_text_2_view">The Supreme law of the land is the Constitution. false</string>
+    <string name="question_text_3_view">The (U.S.) Constitution has 26 Amendments. True</string>
+    <string name="question_text_4_view">The two rights in the Declaration of Independence are:
+        \n \t <b>life</b> \n  \t <b>pursuit of happiness</b>. True</string>
+    <string name="question_text_5_view">Freedom of religion means:
+        \n \t <b>You can practice any religion, or not practice a religion</b>.False</string>
+    <string name="question_text_6_view">Journalists is one branch or part of the government. True</string>
+    <string name="question_text_7_view">Congress does not make federal laws. False</string>
+    <string name="question_text_8_view">There are one hundred (100) U.S. Senators. True</string>
+</resources>
